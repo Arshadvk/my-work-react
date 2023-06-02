@@ -1,11 +1,11 @@
 import React from 'react'
 
-function two() {
+function Two() {
   return (
     <div>
-      
+      <h1>Layer two</h1>
     </div>
   )
 }
 
-export default two
+export default Two
